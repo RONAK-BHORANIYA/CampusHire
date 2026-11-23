@@ -1,0 +1,45 @@
+[
+  {
+    "company": "Kaboom AI",
+    "role": "AI Engineer",
+    "ctc_lpa": 18,
+    "deadline": "2026-12-05",
+    "criteria": {
+      "degrees": ["M.Tech", "B.Tech"],
+      "branches": ["CSE", "IT", "AI&DS", "ECE"],
+      "min_cgpa": 7.0,
+      "min_10th": 60,
+      "min_12th": 60,
+      "max_active_backlogs": 0,
+      "graduation_years": [2026, 2027]
+    }
+  },
+  {
+    "company": "Nimbus Analytics",
+    "role": "Data Scientist",
+    "ctc_lpa": 12,
+    "deadline": "2026-12-15",
+    "criteria": {
+      "degrees": ["M.Tech", "B.Tech", "MCA"],
+      "branches": ["CSE", "IT", "AI&DS", "Mathematics"],
+      "min_cgpa": 6.5,
+      "max_active_backlogs": 1,
+      "graduation_years": [2026, 2027]
+    }
+  },
+  {
+    "company": "Vertex Systems",
+    "role": "Software Engineer",
+    "ctc_lpa": 8,
+    "deadline": "2026-11-30",
+    "criteria": {
+      "degrees": ["M.Tech", "B.Tech", "MCA"],
+      "branches": ["CSE", "IT", "ECE", "EE", "ME"],
+      "min_cgpa": 6.0,
+      "min_10th": 65,
+      "min_12th": 65,
+      "max_active_backlogs": 0,
+      "graduation_years": [2026, 2027]
+    }
+  }
+]
